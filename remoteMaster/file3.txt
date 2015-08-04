@@ -7,3 +7,7 @@ Notepad++ v6.7.9 new features and bug-fix:
 5.  Fix the context menu not working problem after doing find in files action.
 6.  Improve copy (to clipboard) in found results panel.
 7.  Improve find in files modal dialog.
+
+@echo off
+setlocal enableDelayedExpansion
+
