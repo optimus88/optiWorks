@@ -1,0 +1,4 @@
+Notepad++ v6.7.9.1 new features and bug-fix:
+
+1. Fix Hanging on exit of Notepad++ issue (update DSpellCheck for its instability issue).
+2. Add "Google Search" command in the context menu.
