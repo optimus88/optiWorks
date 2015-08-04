@@ -1,0 +1,1 @@
+Fix JavaScript block not recognized in HTML document.
